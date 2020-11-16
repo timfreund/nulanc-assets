@@ -14,7 +14,7 @@
    viewBox="0 0 1050 1050"
    id="svg119099"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="logo-master.svg"
    inkscape:export-filename="/home/tim/src/nulanc/nulanc-assets/logo/rendered/logo-master.png"
    inkscape:export-xdpi="214.28999"
@@ -28,17 +28,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="475.72857"
-     inkscape:cy="507.92967"
+     inkscape:zoom="1.4"
+     inkscape:cx="812.19156"
+     inkscape:cy="603.16576"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
      units="px"
-     inkscape:window-width="1720"
-     inkscape:window-height="1376"
+     inkscape:window-width="3832"
+     inkscape:window-height="2113"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="1098"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata119104">
@@ -92,5 +92,16 @@
        id="path119860-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccscccsccccccccsccscccccccccccccccccccccccccccccccccccccccccccccccccsccccccccccccscccccccccccccccccsccccccccccccccccccccccccccccccsccccsccccccsccccccccccccccccccscccccccccccccccccccscsccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="513.75"
+       y="379.46429"
+       id="text4807"><tspan
+         sodipodi:role="line"
+         id="tspan4805"
+         x="513.75"
+         y="379.46429"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">northeast</tspan></text>
   </g>
 </svg>
